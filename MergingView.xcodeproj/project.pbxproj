@@ -22,6 +22,7 @@
 		6EC9E520246A00E9002953FE /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EC9E523246A0118002953FE /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		6EC9E525246A03B8002953FE /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		6EC9E526246A0942002953FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 				6EC9E5042469FE30002953FE /* Products */,
 				6EC9E525246A03B8002953FE /* .gitignore */,
 				6EC9E5142469FE31002953FE /* Info.plist */,
+				6EC9E526246A0942002953FE /* README.md */,
 				6EC9E523246A0118002953FE /* Main.storyboard */,
 				6EC9E520246A00E9002953FE /* AppDelegate.swift */,
 				6EC9E51A2469FF2B002953FE /* MergingView.swift */,
